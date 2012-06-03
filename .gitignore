@@ -5,3 +5,4 @@ project/plugins/project
 .classpath
 .project
 .settings/
+/.cache
